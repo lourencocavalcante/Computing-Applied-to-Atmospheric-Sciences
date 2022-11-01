@@ -1,18 +1,10 @@
 <div align="center">
 
-# Fuzzy Logic Editor
+# Vídeo de apresentação
 
-<div>
-  
-  Editor de Lógica Fuzzy para Unity.
-
-</div>
 
 </div>
 
 ## 📑 Indíce
 
-- [📜 Sobre](#-sobre)
-- [💻 Tecnologias](#-tecnologias)
-- [⚠️ Instalação](#%EF%B8%8F-instalação)
-- [📖 Documentação](#-documentação)
+- [💻 Assistir apresentação](https://drive.google.com/file/d/14KoN-crTtWelwgqTuP_J95g8lBSpNLDE/view?usp=sharing)
